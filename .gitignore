@@ -5,9 +5,11 @@ app/styles/fonts/
 bower_components/
 node_modules/
 
+error_log
+
 build/
 dist/
 
 # IDE specifics
 .idea/
-
+.c9/
