@@ -1,5 +1,4 @@
 {
-
   "configVars": {
     "app": "app",
     "appjs": "scripts",
@@ -29,5 +28,4 @@
   "buildFiles": [
     "images/**", "views/**", "scripts/ext/require.js"
   ]
-
 }
