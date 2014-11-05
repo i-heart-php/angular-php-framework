@@ -1,3 +1,4 @@
+npm cache clean
 npm install
 npm install -g grunt
 npm install -g grunt-cli

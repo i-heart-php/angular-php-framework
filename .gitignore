@@ -8,7 +8,7 @@ node_modules/
 error_log
 
 build/
-dist/
+distro/
 
 # IDE specifics
 .idea/

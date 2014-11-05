@@ -4,7 +4,7 @@
     "appjs": "scripts",
     "appcss": "styles",
     "build": "build",
-    "dist": "dist",
+    "dist": "distro",
     "hostname": "localhost",
     "port": 8080
   },
